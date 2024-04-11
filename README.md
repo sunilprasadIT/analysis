@@ -4,10 +4,10 @@ Checking to decide which AI tool to be used for making the development workflow 
 # Tools List
 
 **Code**
-1. Dhiwise
-2. Builder.io
-3. Plasmic
-4. Locofy.ai
+1. Dhiwise - code export ✅
+2. Builder.io - nope ❌
+3. Plasmic - nope ❌
+4. Locofy.ai - code export ✅
    
 **Design**
 1. Creatie.ai

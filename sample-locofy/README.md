@@ -1,10 +1,7 @@
+# Have a look at this
 
-  # First Impression
+In the design tool you can use antD or any other library pre-build components in the place of a particular design component. That's it. Tailwind UI comes irrespective of the library used.
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+ This tool needs the perfect design to get the proper optimised code
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+<img width="1440" alt="Locofy ai" src="https://github.com/sunilprasadIT/analysis/assets/166682604/71071bf2-bb1a-45f8-9d84-a9a015cb4942">
